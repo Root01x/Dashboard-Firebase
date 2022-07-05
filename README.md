@@ -1,3 +1,3 @@
-# Spark - Responsive Bootstrap 5 Admin & Dashboard Template
+# Development in progress...
 
-Thanks for buying. Navigate to `docs/docs-getting-started.html` to get started.
+
