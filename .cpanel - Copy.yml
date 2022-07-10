@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/olympus/public_html/pruebas
+    - /bin/cp -r /home/codethissite/repositories/CodeEditor/dist/* $DEPLOYPATH  

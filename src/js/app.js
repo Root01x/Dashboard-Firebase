@@ -1,4 +1,6 @@
 // Main
+
+
 import "./modules/bootstrap";
 import "./modules/feather";
 import "./modules/fullcalendar";
@@ -30,3 +32,14 @@ import "./modules/vector-maps";
 
 // Tables
 import "./modules/datatables";
+// Apis
+import "./modules/auth";
+import "./modules/registerUsers";
+import writeUserData from "./modules/auth";
+import "./modules/cerrarSesion";
+import "./modules/validaciones";
+
+
+
+
+// writeUserData()
